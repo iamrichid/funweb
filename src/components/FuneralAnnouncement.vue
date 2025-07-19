@@ -55,7 +55,7 @@
         All sympathisers and well-wishers are cordially invited.<br />
         <span class="minimal-footer-verse">“Blessed are those who mourn, for they shall be comforted.” – Matthew 5:4</span>
       </div>
-      <a href="https://wa.me/+0592797074" class="minimal-contact-btn" aria-label="Contact the family on WhatsApp" target="_blank" rel="noopener">Contact the Family on WhatsApp</a>
+      <a href="https://wa.me/+233592797074" class="minimal-contact-btn" aria-label="Contact the family on WhatsApp" target="_blank" rel="noopener">Contact the Family on WhatsApp</a>
     </section>
   </main>
 </template>
