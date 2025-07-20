@@ -31,7 +31,7 @@
       <div class="minimal-funeral-grid">
         <div>
           <span class="minimal-label">Laying in State:</span><br/>
-          <span class="text-black">Saturday, 26th July 2025<br />Presbyterian Church, Kpone Bawaleshie<br />8:00 AM</span>
+          <span class="text-black">Presbyterian Church, Kpone Bawaleshie<br /> <b>Saturday, 26th July 2025  8:00 AM</b></span>
         </div>
         <div>
           <span class="minimal-label">Burial:</span><br/>
@@ -152,9 +152,9 @@ import mainImg from '../assets/philip/main.jpg'
   width: 100%;
 }
 .minimal-funeral-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1.2rem 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
   width: 100%;
   color: #000;
   margin-bottom: 1.2rem;
